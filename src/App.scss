@@ -1,0 +1,18 @@
+.app-component {
+  padding: 20px;
+
+  .languages {
+    span {
+      padding: 10px 20px;
+      background-color: lightgray;
+      color: white;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    .active {
+      background-color: #0A84FF;
+      color: white;
+    }
+  }
+}
